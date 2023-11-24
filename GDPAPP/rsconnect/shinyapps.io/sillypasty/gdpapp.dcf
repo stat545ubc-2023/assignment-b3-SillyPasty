@@ -1,0 +1,10 @@
+name: gdpapp
+title:
+username: sillypasty
+account: sillypasty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10620631
+bundleId: 7966109
+url: https://sillypasty.shinyapps.io/gdpapp/
+version: 1
